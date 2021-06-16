@@ -1,3 +1,5 @@
+
+
 const movies = [
     {
       "title": "The Shawshank Redemption",
@@ -2967,3 +2969,5 @@ const movies = [
       "rate": 8
     }
   ]
+
+  //const moviesJSON = JSON.stringify(movies);
